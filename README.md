@@ -1,2 +1,5 @@
-# precourse-henry
-este es mi primer repositorio del curso de soyhenry
+john correa "jaguar code"
+este es un ejemplo de como crear un repositorio en github y clonarlo
+a ver si ahora si puedo subirlo
+
+
